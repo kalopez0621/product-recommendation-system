@@ -21,25 +21,24 @@ This is a **Streamlit-based Product Recommendation System** that uses **Word2Vec
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/kalopez/product-recommendation-system.git
+git clone https://github.com/YourUsername/Product-Recommendation.git
 cd Product-Recommendation
-2️⃣ Create a Virtual Environment (Optional but Recommended)
-sh
-Copy
-Edit
+```
+### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
+```sh 
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
-3️⃣ Install Dependencies
-sh
-Copy
-Edit
+```
+
+### **3️⃣ Install Dependencies**
+```sh
 pip install -r requirements.txt
-4️⃣ Run the Streamlit App
-sh
-Copy
-Edit
+```
+### **4️⃣ Run the Streamlit App**
+```sh
 streamlit run app.py
+```
 📌 How It Works
 Select a Category from the dropdown.
 Choose a Product within that category.
@@ -55,11 +54,9 @@ gensim
 sklearn
 streamlit
 To install them manually:
-
-sh
-Copy
-Edit
+```sh
 pip install pandas numpy gensim scikit-learn streamlit
+```
 📌 Future Improvements
 ✅ Enhance Word2Vec training by fine-tuning hyperparameters.
 ✅ Improve UI with better visuals & filters.
@@ -72,22 +69,6 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 This project is for educational purposes. You may modify and use it freely.
 
 📬 Contact
-👤 Your Name
-📧 your.email@example.com
-🔗 GitHub: YourUsername
-
-⭐ If you find this project useful, please give it a star on GitHub! ⭐
-
-yaml
-Copy
-Edit
-
----
-
-### **📌 How to Add This README to Your GitHub Repository**
-1. **Save the file** as `README.md` in your project folder.
-2. **Add & commit the file**:
-   ```sh
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
+👤 Karla Lopez
+📧 kalopez0621@gmail.com
+🔗 GitHub: Kalopez0621
