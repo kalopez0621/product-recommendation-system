@@ -21,8 +21,7 @@ This is a **Streamlit-based Product Recommendation System** that uses **Word2Vec
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YourUsername/Product-Recommendation.git
-cd Product-Recommendation
+git clone kalopez0621/product-recommendation-system
 ```
 ### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
 ```sh 
